@@ -16,10 +16,10 @@ I built this project to practice real-world data analyst skills. It digs into sa
 
  What's in here
 
-- Sales trends over time (spoiler: some months are way better than others)
-- Customer segmentation using RFM analysis - basically sorting customers by how recently they bought stuff, how often, and how much they spend
-- Product performance - what's hot and what's not
-- Regional breakdown - which areas bring in the most money
-- A bunch of charts because data looks better with pictures
+ Sales trends over time (spoiler: some months are way better than others)
+ Customer segmentation using RFM analysis - basically sorting customers by how recently they bought stuff, how often, and how much they spend
+ Product performance - what's hot and what's not
+ Regional breakdown - which areas bring in the most money
+ A bunch of charts because data looks better with pictures
 
 Built with Python, Pandas, and Matplotlib. The notebook walks through everything step by step.
